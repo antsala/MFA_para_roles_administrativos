@@ -55,3 +55,15 @@ La directiva se ha creado y su estado es ***Report-Only***.
 
 Para determinar el funcionamiento de la directiva vamos a ***Sign-in logs***, en ***Monitoring***.
 ![Sign-in logs](./img/202303141025.png)
+
+En la auditoría de inicios de sesión, hacemos clic en el evento deseado.
+![evento](./img/202303141050.png)
+
+Como podemos apreciar, en la pestaña ***Report-only*** aparecen las directivas que están funcionando en modo auditoría. Se puede comprobar como a este usuario se le exigiría la MFA, pero al estar en modo de reporte, no se aplica.
+![not applied](./img/202303141100.png)
+
+Una vez comprobado que se exigirá la MFA a los usuarios apropiados, se cambiará el modo a ***Activo***.
+
+
+
+
