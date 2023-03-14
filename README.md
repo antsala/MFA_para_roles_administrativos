@@ -44,6 +44,7 @@ En ***Cloud apps or actions***, hacemos clic en ***No cloud apps, actions, or au
 ![All cloud](./img/202303141013.png)
 
 En ***Access controls***, ***Grant***, hacemos clic en ***0 controls selected*** y seleccionamos ***Require multifactor authentication***. Hacemos clic en ***Select***.
+
 ![Req MFA](./img/202303141016.png)
 
 En la parte inferior, observar el mensaje que advierte de que no nos bloqueemos a nosotros mismos. Para evitarlo, activamos la política en modo auditoría (***Report-only***). Hacemos clic en ***Create***.
