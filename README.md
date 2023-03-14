@@ -13,7 +13,8 @@ Primero, los usuarios con roles administrativos deben registrarse para la MFA. D
 En la página de acceso condicional, hacemos clic en el botón "New Policy".
 ![New Policy](./img/202303140952.png)
 
-En nombre escribimos ***Requerir MFA para roles administrativos***
+En nombre escribimos ***Requerir MFA para roles administrativos***.
+
 ![Nombre](./img/202303141000.png)
 
 En ***Asignaciones***, hacemos clic en ***0 users and groups selected*** y elegimos ***Selected users and groups***. Marcamos el check box ***Directory roles***.
