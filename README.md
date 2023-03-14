@@ -35,6 +35,7 @@ Elegimos al menos los siguientes roles de administrador.
 * Administrador de autenticación
 
 En total seleccionamos 8 roles.
+
 ![8 roles](./img/202303141011.png)
 
 En ***Cloud apps or actions***, seleccionamos ***all cloud apps***.
